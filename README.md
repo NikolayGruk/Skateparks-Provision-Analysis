@@ -55,6 +55,12 @@
 Схема расположения действующих скейт-парков и жилых домов
 ![Макет_3_page-0001](https://github.com/user-attachments/assets/d013effc-5f7c-43f7-b8b1-541168441dcc)
 
+Пример визуального представления результата работы функции по распределению пользователей по скейт-паркам и расчета показателей обеспеченности
+![image](https://github.com/user-attachments/assets/b5703b05-1d03-461a-8b99-e2e5d6e878d8)
+
+Пример агрегации полученных показателей по одному административному району
+![image](https://github.com/user-attachments/assets/1d549415-dff4-4d83-9045-5e1db455f9aa)
+
 Пример агрегации данных по административным районам
 ![image](https://github.com/user-attachments/assets/3dd02cca-f3b0-4d90-ac18-75a989bf26cb)
 

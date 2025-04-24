@@ -40,7 +40,7 @@
 - интерактивные карты, визуализирующие каждый из двух слоев, также представляющие из себя файлы с расширением .html, который можно открыть в браузере
 
 # Пример файлов
-Грвницы рассматриваемой в работе территории
+Границы рассматриваемой в работе территории
 ![Границы территории](https://github.com/user-attachments/assets/cf1695e0-1fe6-4bf1-b4f8-3018b5fa518d)
 
 Пример визуализации геослоев со скейт-парками и жилыми домами
@@ -50,10 +50,10 @@
 ![граф](https://github.com/user-attachments/assets/24fff167-282c-4ca9-a0f9-6cc597f5fc66)
 
 Схема расположения действующих скейт-парков
-[Макет_2.pdf](https://github.com/user-attachments/files/19880844/_2.pdf)
+![Макет_2_page-0001](https://github.com/user-attachments/assets/bae995ce-3c03-4c38-994d-288e5f03900e)
 
 Схема расположения действующих скейт-парков и жилых домов
-[Макет_3.pdf](https://github.com/user-attachments/files/19880863/_3.pdf)
+![Макет_3_page-0001](https://github.com/user-attachments/assets/d013effc-5f7c-43f7-b8b1-541168441dcc)
 
 Пример агрегации данных по административным районам
 ![image](https://github.com/user-attachments/assets/3dd02cca-f3b0-4d90-ac18-75a989bf26cb)

@@ -1,0 +1,18 @@
+Весь код был написан на python версии 3.11.9
+
+Использовались следующие библиотеки и зависимости:
+- ObjectNat
+- pyarrow
+- IduEdu
+- pandas
+- numpy
+- geopandas
+- pickle
+- os
+- osmnx
+- shapely
+- networkx
+- decimal
+- folium
+- matplotlib 
+- mapclassify 
